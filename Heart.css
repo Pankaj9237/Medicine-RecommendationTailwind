@@ -1,0 +1,12 @@
+label {
+  font-size: 2rem;
+}
+input {
+  height: 3rem;
+  border: black;
+}
+
+form label,
+input {
+  margin: 1rem;
+}
